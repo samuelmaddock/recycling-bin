@@ -16,5 +16,9 @@ Directory structure:
 ```
 
 Dependencies:
+```
 Lua 5.1
 gmsv_socket
+```
+
+![Slack GMod Server Chat](http://i.imgur.com/5FzWcFl.png)
